@@ -1,4 +1,4 @@
-# Projeto-Final
+# IncluVision
 
 IncluVision é um jogo educacional imersivo projetado para capacitar funcionários com baixa visão no ambiente de trabalho. Este jogo incorpora elementos de RPG, oferecendo situações de múltipla escolha que concedem aos jogadores o poder de tomar decisões, permitindo que aprendam com seus erros e acertos.
 
