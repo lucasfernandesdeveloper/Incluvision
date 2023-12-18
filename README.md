@@ -5,4 +5,5 @@ IncluVision é um jogo educacional imersivo projetado para capacitar funcionári
 A abordagem do jogo se baseia em narrativas do cotidiano dessas pessoas, apresentando uma variedade de situações que podem ser encontradas no ambiente de trabalho. Ao simular desafios com os quais os funcionários PCDs podem se deparar, o jogo proporciona uma experiência de aprendizado envolvente e prática.
 
 
-## Na aba "Wiki" você encontrará toda a documentação do projeto, desde seus requisitos até em como foram criadas algumas funcionalidades.
+## Documentação
+Na aba "Wiki" você encontrará toda a documentação do projeto, desde seus requisitos até em como foram criadas algumas funcionalidades.
